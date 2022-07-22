@@ -1,0 +1,85 @@
+*{
+    font-size: 16px;
+}
+.collapse{
+    color: black;
+    font-size: 16px;
+}
+.nav-link:hover{
+    border-bottom: 2px solid yellow;
+}
+.post-img{
+  border-radius: 10px;
+}
+.h3-card{
+    background-color: #f6cf32;
+    border-radius: 10px;
+    text-align: center;
+    height: 40px;
+}
+.a-post{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+}
+.a-post:hover{
+    color: #745d03;
+}
+.a-post-1{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+.a-post-1:hover{
+    color: #745d03;
+}
+.des{
+    margin-top: 10px;
+    color: aliceblue;
+    font-size: 14px;
+}
+.li-social{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#a-footer-social{
+    margin-left: 10px;
+}
+.hr{
+    width: 104px;
+    height: 3px;
+    background-color: #999999;
+    margin: 20px ;
+}
+.ul-social{
+    list-style-type: none;
+}
+.col-md-3 li{
+    list-style-type: none;
+}
+.footer-li-content{
+    margin: 40px auto;
+}
+.hr1{
+    width: 104px;
+    height: 3px;
+    background-color: #999999;
+    margin-right: 30px ;
+}
+.col-md-2{
+    color: rgb(253, 254, 255);
+}
+
+.a-footer{
+    text-decoration: none;
+    color: aliceblue;
+}
+.a-footer:hover{
+    color:#745d03;
+}
+.col-md-2 h4{
+    text-align: justify;
+    margin-right: 20px;
+}
